@@ -5,7 +5,6 @@
 - 👩‍🎓 Sou formada em Sistemas para Internet - UFSM.
 - 💻 Minhas linguagens favoritas back-end são Java, PHP.
 - 💻 Minhas linguagens favoritas front-end é JS.
-- 💻 Minhas linguagens favoritas back-end são Java, PHP.
 - 📫 Contato: vitoria.poncio@gmail.com
 
 
